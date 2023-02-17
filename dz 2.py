@@ -47,8 +47,8 @@ class Cat:
         self.end_of_day()
         self.is_alive()
 
-kora = Cat(name = 'Kora')
+kora = Cat (name = 'Kora')
 for day in range(365):
     if nick.alive ==  False:
         break
-    nick.live(day)
+    kora.live(day)
